@@ -1,4 +1,4 @@
 DB_HOST = "DBHOST"
 DB_USER = "admin"
-DB_PASSWORD = "adminadmin"
+DB_PASSWORD = "DBPASSWORD"
 DB_NAME = "userdb"
